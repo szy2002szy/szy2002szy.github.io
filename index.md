@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>史正源</h1>
+      <p><b>学历：本科生</b></p>
+      <p><b>学号：2213311104</b></p>
+      <p><b>学校：西安交通大学</b></p>
+      <p><b>邮箱：369591032@qq.com</b></p>
+      <p><b>地址：西安交通大学南洋书院</b></p>
+    <td>
+    <td width="25%">
+      <img src="/7fb63db9bcb439a4.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+  <td>计算机学科各课程之间的关系</td> 
+  </tr>
+  <tr>
+  <td><img src="/guanxitu.jpg"> </td>
+  </tr>
+  <tr>
+  <td>我对计算机专业的看法</td> 
+  </tr>    
+  <tr>
+<td>计算机专业指随着计算机的产生与发展而产生的各种与计算机有关的专业，具有涉及范围广，发展速度快，科技含量高的特点。
+计算机专业门类众多，包含计算机科学与技术、软件工程、网络工程、信息安全、物联网工程、数字媒体技术、智能科学与技术、空间信息与数字技术、电子与计算机工程等专业，需要综合运用数学，物理，程序设计等多门学科的知识，所以学习计算机专业对学生的素质要求也比较高，难度也比较大。相对的，计算机专业就业面很广，在交叉行业中起到巨大作用，一旦能找到稳定的工作，平均起步收入也会高于其他的行业。
+计算机专业发展十分迅速，是一门日新月异的学科，时时刻刻都有新的理论、知识、产品、技术被推出，许多研究方向都在不断取得新的突破与成就。另外，在就业市场巨大的同时，行业竞争也十分激烈。要想跟上行业的发展速度，就必须敢于抛弃旧的框架，积极接受并学习新的知识，无论是在哪个层次都要不断地充实自己，让自己具备自我知识更新的能力。
+计算机专业科技含量高，在普通人眼中是一个高大上的专业，学生学习时有很多接触到行业前沿科技地机会。在学习时，重视在数学、逻辑、数据结构、算法、电子设计、计算机体系结构和系统软件等方面的理论基础和专业技术基础，同时又注重自主性实践环节，让学生参与到项目设计中，锻炼对理论知识的运用能力。
+  </td>  
+  </tr>
+  <tr>
+  <td>我的学业规划</td>
+  </tr>
+  <tr>
+  <td>在大一时认真学习基础课程，关注书院的各种讲座，在以学习为重的前提下参与社会实践活动。在大二，大三时积极参加各种比赛，锻炼专业能力，积累经验，在大四时全力投入到考研中去，争取能成功考上研究生，并坚持自己喜欢的电气专业深入学习研究，提高自身能力素养，为走上社会做准备。
+  </td>
+  </tr>
+  <tr>
+  <td>计算机学科有用的参考资料</td>
+  </tr>
+  <tr>
+  <td>https://www.cnblogs.com/longronglang/p/8453047.html</td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/szy2002szy/szy2002szy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/szy2002szy/szy2002szy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
